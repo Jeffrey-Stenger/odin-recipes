@@ -1,0 +1,1 @@
+This is the first project of The Odin Project. It is a very simple HTML website with links to 3 different recipe pages.
